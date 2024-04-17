@@ -25,7 +25,6 @@ def add_and_multiply_fractions(fraction1, fraction2):
     return f"{sum_num}/{common_denom}", f"{product_num}/{product_denom}"
 
 
-# Пример использования программы
 fraction1 = input("Введите первую дробь (в формате a/b): ")
 fraction2 = input("Введите вторую дробь (в формате a/b): ")
 
